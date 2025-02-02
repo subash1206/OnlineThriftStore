@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.39.7",
+    "@supabase/supabase-js": "^2.47.12",
     "bcryptjs": "^2.4.3",
     "better-sqlite3": "^9.4.3",
     "jspdf": "^2.5.1",
